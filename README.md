@@ -1,5 +1,3 @@
-# Joel Garay C - Overview
-
 ## About Me
 
 Welcome to my GitHub repository! I am Joel Garay C, a passionate developer with a strong focus on Front'end. This repository showcases various projects and contributions I have made in the field of software development. I enjoy working on innovative projects and continuously learning new skills. Below is a list of technologies I am proficient in:
