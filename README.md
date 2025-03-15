@@ -12,6 +12,7 @@ Welcome to my GitHub repository! I am Joel Garay C, a passionate developer with 
 ### Frameworks
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-FF5A03?style=flat-square&logo=astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ### Tools
