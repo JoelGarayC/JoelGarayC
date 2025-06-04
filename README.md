@@ -35,5 +35,4 @@ Welcome to my GitHub repository! I am Joel Garay C, a passionate developer with 
 
 ## Statistics
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelGarayC&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelGarayC&layout=compact&theme=dark)
